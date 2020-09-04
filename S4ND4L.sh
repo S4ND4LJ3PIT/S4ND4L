@@ -695,7 +695,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./TUANB4DUT=" pil;
+read -p "   ╰─root@./DUNIASCRIPT=" pil;
 
 # Nmap
 
